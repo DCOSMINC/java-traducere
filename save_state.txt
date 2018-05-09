@@ -1,0 +1,15 @@
+changePasswordBtn
+Schimba parola
+Change password
+loginFailed
+User sau parola gresite
+Username or password are incorrect
+addMovie
+Adauga un film
+Add a movie
+loginSuccess
+
+Login was successful
+showMovieList
+Afiseaza Filme
+
